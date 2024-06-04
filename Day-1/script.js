@@ -33,7 +33,7 @@ end
 
 */
 
-const hitung = () =>{
+const hitung = () => {
   let inputUsers = document.getElementById('inputValue')
   let result = document.getElementById('result')
   if (inputUsers.value % 7 == 0) {
